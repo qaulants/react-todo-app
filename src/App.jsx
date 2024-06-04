@@ -23,7 +23,7 @@ const App = () =>{
     },
   ])
 
- 
+
 
   //console.log(todos)
 
@@ -32,6 +32,7 @@ const App = () =>{
       <h1>My Todo List</h1>
      
       <Todos todos={todos}/>
+   
     </div>
   )
 
